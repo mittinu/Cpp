@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.mob": "php",
+        "iostream": "cpp",
+        "vector": "cpp"
+    }
+}
